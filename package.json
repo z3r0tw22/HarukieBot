@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
-    "chalk-color-utils": "^1.0.7",
+    "chalk-color-utils": "^1.0.9",
     "discord-api-types": "^0.37.10",
     "discord.js": "^14.3.0",
     "dotenv": "^16.0.2",
